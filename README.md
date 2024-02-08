@@ -15,7 +15,7 @@ Welcome to my GitHub playground! I'm a passionate [Data Enthusias] based in [You
 
 I'm comfortable working with:
 
-(![C]([https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg))
+(![C]([https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg)))
 (![C++](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Python]([https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg))
 ![JavaScript]([https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg))
