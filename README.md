@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shammi_abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shammi_abhi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shammika wijesinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shammika wijesinghe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shammikawijesinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shammika wijesinghe" height="30" width="40" /></a>
 <a href="https://fb.com/shammika wijesinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shammika wijesinghe" height="30" width="40" /></a>
 <a href="https://instagram.com/shux.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shux.__" height="30" width="40" /></a>
 <a href="https://medium.com/@shammika wijesinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shammika wijesinghe" height="30" width="40" /></a>
